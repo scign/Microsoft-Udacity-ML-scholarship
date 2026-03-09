@@ -1,5 +1,6 @@
-Welcome to the United Repository! We hope you'll find the material on this repository helpful and we also hope you'll share your amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure here! The major motive of this repository is to help every interested learner may be a rookie or a master by sharing the knowledge we have acquired so far!! There are no such restrictions regarding the content you want to share likewise it can be informative PDFs, Videos, Codes, notes that we make while studying our #50daysofudacity, or anything that you think can be insightful or helpful. 
-Perks of contributing 😉👉 We'll be tagging you on Slack to appreciate your contribution towards learning!! 
+**Welcome to the United Repository!** 
+We hope that you find the material in this repository helpful and that you'll share your own amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure! The main goal of this repository is to help every interested learner, be they rookie or master, by sharing the knowledge we as a group have acquired so far!! There are no restrictions regarding the content that you share; it can be informative PDFs, videos (we prefer that you just post the link rather than uploading the actual video), code, notes that you made while studying our #50daysofudacity, or anything that you think would be insightful or helpful. 
+Perks of contributing 😉👉 We'll be tagging you on Slack to show our appreciation for your contribution toward learning!! 
 
 So, please join us in this amazing community of learning and sharing #weareintothistogether!
 
@@ -14,6 +15,7 @@ So, please join us in this amazing community of learning and sharing #weareintot
 
 > If your `README` has a lot of info, section headers might be nice.
 
+- [All the Lessons](https://github.com/Divan009/Microsoft-Azure-ML-Scholarship/blob/master/README.md)
 - [Installation](#installation)
 - [Features](#features)
 - [Prerequisite](#prerequisite)
@@ -22,6 +24,7 @@ So, please join us in this amazing community of learning and sharing #weareintot
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
+
 ---
 
 ## Example
@@ -62,8 +65,14 @@ So, please join us in this amazing community of learning and sharing #weareintot
  
 - Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure.
 
+- For digital notes, please refer to this google drive folder
+Link: https://drive.google.com/drive/folders/1N1FAhOFO24fyJ--SI4Sj5XqNEVoCG1kn?usp=sharing 
+
 - For handwritten notes, please refer to this google drive folder
 Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?usp=sharing 
+
+-For beginners who want to get started with Machine learning basics and important libraries please check out this amazing course by Lazy programmer:
+Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python
 
 ## Tests
 - Going into more detail on code and technologies used
@@ -105,18 +114,12 @@ Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?u
 
 ## Team
 > Contributors/People
-- https://www.linkedin.com/in/divajain9
-- https://www.linkedin.com/in/nagaraj-amarnath
-- https://www.linkedin.com/in/swagatmohanty1996
-- https://www.linkedin.com/in/snehithallamraju
-- https://www.linkedin.com/in/m4n15h
-- https://www.linkedin.com/in/ananyay-ankit-657037103
-- https://www.linkedin.com/in/rutuja-kawade-6b7a8a171
-- https://www.linkedin.com/in/tushikasingh
-- https://www.linkedin.com/in/palak-rathi-b1a3a2170/
-- https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
-- https://www.linkedin.com/in/divyanshi-parashar-a6332818b/
-- https://www.linkedin.com/in/aditichadha1/
+- Diva Dugar https://www.linkedin.com/in/divadugar
+- Ananyay Ankit https://www.linkedin.com/in/ananyay-ankit-657037103
+- Tushika Singh https://www.linkedin.com/in/tushikasingh
+- Palak Rathi https://www.linkedin.com/in/palak-rathi-b1a3a2170/
+- Shatakshi Pachori https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
+- Aditi Chadha https://www.linkedin.com/in/aditichadha1/
 ---
 ## FAQ
 
